@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "parsecsv/php-parsecsv": "^1.2"
+    }
+}
